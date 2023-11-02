@@ -1,4 +1,6 @@
 # Tic-Tac-3player-minimax
+Description: This one is an interesting problem where we can play Tic-Tac-Toe with 3 players. 2 players are Computer and one is human. Implemented min-max algorithm
+One of the extension would be to try something similar with 3 players Chess and with 3 sides ... Always wondered how it will work 
 Problem statement 1: Gaming
  Code involves 3 players - User (X), Computer 1 (O), Computer 2 (T)
  It is assumed that Computer 1 and Computer 2 players are playing against user (X) but they 
